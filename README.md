@@ -1,5 +1,5 @@
 # finalproject
-mobile application final project
+mobile application final project - ecommerce
 
 # creates some users
 1. test@gmail.com 123456
